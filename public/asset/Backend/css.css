@@ -1,0 +1,77 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  
+  background-size: cover;
+  font-family: 'Times New Roman', Times, serif;
+  display: flex;
+  text-align: left;
+  justify-content: center;
+}
+.complain{
+  width: 500px;
+  height: 500px;
+  padding: 30px;
+  border: 5px solid #34495e;
+  border-radius: 10px;
+  outline: none;
+  
+}
+.form h1{
+  color: #ecf0f1;
+}
+.input-style{
+  margin-top:15px;
+  font-size: x-large;
+}
+.input-style p{
+font-size: 1.5rem;
+font-style: normal;
+font-weight: bold;
+color:#0d0d0e;
+}
+.input-style input{
+  width: 200px;
+  background: transparent;
+  padding: 3px;
+  border:2px solid #070707;
+  border-radius: 5px;
+  color:#ecf0f1;
+  outline: none;
+  height: 15px;
+  margin-bottom: 5px;
+}
+.input-style label{
+  color: black;
+  margin-bottom: 10px;
+  display: block;
+  font-size: 4px;
+  cursor: pointer;
+  padding: 1px;
+
+}
+
+.prb p{
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-align: left;
+  color:#0d0d0e;
+  margin-top: 4px;
+  color:#0d0d0e;
+}
+.register input{
+  width: 20%;
+  margin-top: 20px;
+  padding: 10px;
+  background:  linear-gradient(130dg #1abc9c,#16a085 );
+  outline: none;
+  border-radius: #ecf0f1;
+  cursor: pointer;
+  border: none;
+}
+.register input-type style{
+  color:#0d0d0e;;
+}
